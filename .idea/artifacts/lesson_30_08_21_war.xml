@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lesson_30_08_21:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>lesson_30_08_21</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="lesson_30_08_21-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="lesson_30_08_21:war exploded" />
+    </root>
+  </artifact>
+</component>
